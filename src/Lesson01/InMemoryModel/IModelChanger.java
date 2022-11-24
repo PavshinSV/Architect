@@ -1,5 +1,5 @@
 package Lesson01.InMemoryModel;
 
 public interface IModelChanger {
-    //TODO IModelChanger Interface
+    // TODO: 24.11.2022
 }
